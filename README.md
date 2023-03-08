@@ -2,7 +2,7 @@
 
 - 🎓 Bachelors in Data Science from Brigham Young University - Idaho
 - 🔗 My blog https://allisonbday.github.io/
-- 🔭 I’m currently working on an app to auto generate temperature blanket patterns
+- 🔭 I’m currently working on a streamlit app to auto generate temperature blanket patterns
 
 
 <!---
