@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,r,md,github,vscode&theme=light)](https://skillicons.dev)
 
 
 - 🎓 Bachelors in Data Science from Brigham Young University - Idaho
