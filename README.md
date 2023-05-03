@@ -1,6 +1,10 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,r,md,github,vscode" />
+  </a>
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=py,r,md,github,vscode&theme=light)](https://skillicons.dev)
+### Hi there 👋
 
 
 - 🎓 Bachelors in Data Science from Brigham Young University - Idaho
