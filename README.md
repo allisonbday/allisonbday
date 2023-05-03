@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+
+
 - 🎓 Bachelors in Data Science from Brigham Young University - Idaho
 - 🔗 My blog https://allisonbday.github.io/
 - 🔭 I’m currently working on a streamlit app to auto generate temperature blanket patterns
